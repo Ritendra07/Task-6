@@ -14,11 +14,6 @@ Implement and understand the K-Nearest Neighbors (KNN) algorithm for solving cla
 
 ---
 
-## 📁 Files
-- `knn_iris_classification.py`: Main script containing all steps of the KNN classification pipeline.
-
----
-
 ## 📊 Dataset
 - **Iris Dataset**: A classic dataset in machine learning that contains 150 samples of 3 species of iris flowers (*Setosa*, *Versicolor*, *Virginica*), with 4 features each.
 - The script uses only the first 2 features (`sepal length`, `sepal width`) for visualization purposes.
@@ -40,9 +35,3 @@ Implement and understand the K-Nearest Neighbors (KNN) algorithm for solving cla
    - Plots **decision boundary** for `k = 3`.
 
 ---
-
-## ▶️ How to Run
-1. Install required libraries if not already installed:
-
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
